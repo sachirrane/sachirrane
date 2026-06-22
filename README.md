@@ -35,6 +35,8 @@ Microsoft Excel(Advanced Level):
 
 Overview - Smart Civic Complaint System is a web application that allows citizens to register complaints online regarding civic issues such as garbage, water leakage, road damage, and streetlight problems. Instead of visiting government offices physically, users can submit complaints from home and track their complaint status online.
 
+![Home Page]((https://raw.githubusercontent.com/sachirrane/sachirrane/main/Home Page.jpeg)
+
 
 
 Internship
