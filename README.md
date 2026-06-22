@@ -1,9 +1,7 @@
 Hi 👋, I'm Sachi Ravindra Rane
 An Application Developer.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5a4af3c0-8f51-47eb-bd6e-f7a5e4729261" />
-
-
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/12ab8d3e-1aa9-4276-b08a-fb3dcd8d1547" />
 
 👩 About Me
 
