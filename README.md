@@ -1,6 +1,6 @@
 Hi 👋, I'm Sachi Ravindra Rane
 
-![My Photo]((https://raw.githubusercontent.com/sachirrane/sachirrane/main/sachi.jpg)
+![My Photo]((https://raw.githubusercontent.com/sachirrane/sachirrane/main/sachi.jpeg)
 
 
 👩 About Me
