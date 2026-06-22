@@ -1,13 +1,16 @@
 Hi 👋, I'm Sachi Ravindra Rane
+An Application Developer.
 
 ![My Photo]((https://raw.githubusercontent.com/sachirrane/sachirrane/main/Sachi.jpeg)
 
 
 👩 About Me
 
-- TY BSc IT Student at Sathaye College
-- Passionate about AI, Web Development, and Cybersecurity
-- Interested in Python, Flask, SQL, and IoT Projects
+A dedicated and motivated BSc IT Student with a foundational
+Understanding of MySQL, Python, R, and Advance Excel.
+Passionate about database management and backend development,
+and eager to gain hands-on experience. Looking for an entry-level role where I can strengthen my skills - particularly in MySQL and Python – while Contributing to practical IT Projects.
+
 
 🎓 Education
 
@@ -17,39 +20,41 @@ Hi 👋, I'm Sachi Ravindra Rane
 
 💻 Skills
 
-- Python
-- Flask
-- SQLite
-- HTML
-- CSS
-- Bootstrap
-- Git & GitHub
-- MySQL
-- JavaScript
+Technical Skills:
+Python
+R
+Database & Backend:
+MySQL
+Other Tools:
+Microsoft Excel(Advanced Level):
+
 
 🚀 Projects
 
 🏛️ Smart Civic Complaint System
 
-A Flask-based complaint management system with Admin and User modules.
+Overview - Smart Civic Complaint System is a web application that allows citizens to register complaints online regarding civic issues such as garbage, water leakage, road damage, and streetlight problems. Instead of visiting government offices physically, users can submit complaints from home and track their complaint status online.
 
+Internship
 🔐 CyberCrack
 
 A Red Team Simulation Toolkit for beginner ethical hacking practice.
+Solved Red Team CTF Labs using LInux,Brup, Suite, and Firefox Dev Tools.
+Created and documented 15+ Beginner-Level cybersecurity challenges.
 
-🪞 Smart Mirror
-
-An IoT-based Smart Mirror using Raspberry Pi.
-
-💰 Personal Finance Tracker
-
-A Python application for expense tracking and budgeting.
 
 📜 Certifications
 
-- Advanced Excel Course
-- Python Programming
-- Cybersecurity Internship
+Cybersecurity Internship Certificate
+
+Advanced Excel Certificate
+
+Python Programming Certificate
+
+R Programming Certificate
+
+MySQL Database Certificate
+
 
 📞 Contact Me
 
